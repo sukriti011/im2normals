@@ -1,2 +1,2 @@
 # im2normals
-Computer Vision course project at Princeton
+Using Deep Learning to estimate surface normals using RGB images
