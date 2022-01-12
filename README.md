@@ -2,7 +2,7 @@
 Using Deep Learning to estimate surface normals using RGB images
 
 Sample input image and corresponding surface normal image
-!(/samples/color.png "Color") !(/samples/normal.png "Surface normal")
+![Color](./samples/color.png "Color") ![Surface Normal](./samples/normal.png "Surface normal")
 
 This work was done as part of the Computation Vision course at Princeton University, under the supervision of professor Jia Deng. An initial template script was provided by the course supervisors to load/read the data.
 
